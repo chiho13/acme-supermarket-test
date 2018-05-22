@@ -1,0 +1,29 @@
+{
+	"products": [
+	 	{	
+	 		"id": 1,
+	 	 	"code": "FR1",
+	 	 	"name": "Fruit Tea",
+	 	 	"image": "fruittea.png",
+	 	 	"currency": "£",
+	 	 	"price": "3.11"
+	 	},
+	 	{	
+	 		"id": 2,
+	 		"code": "SR1",
+	 		"name": "Strawberries",
+	 		"image": "strawberries.png",
+	 		"currency": "£",
+	 		"price": "5.00"
+	 	},
+	
+	 	{
+	 		"id": 3,
+	 		"code": "CF1",
+	 		"name": "Coffee",
+	 		"image": "coffee.png",
+	 		"currency": "£",
+	 		"price":  "11.23"
+	 	}
+	]
+}
